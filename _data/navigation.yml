@@ -35,8 +35,13 @@ main:
   - title: "About"
     url: /about/
   - title: "Machine Learning"
+<<<<<<< HEAD
     url: /year-archive/
   - title: "AIFFEL"
+=======
+    url: /machine-learning/
+  - title: "Quick-Start Guide"
+>>>>>>> 4c522c6464ab4b6e187487a0555c4d8fe2173cdc
     url: /docs/quick-start-guide/
   # - title: "Sample Collections"
   #   url: /collection-archive/
