@@ -24,7 +24,7 @@ description              : "Minchae's first blog."
 url                      : "https://Jungminchae.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/home/aiffel0042/MinChae2/blog/Jungminchae.github.io/assets/images/jd2.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/images/jd2.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Jung Min Chae"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I want to be an **machine learning engineer**."
+  bio              : "I want to be a **machine learning engineer**."
   location         : "Seoul"
   email            :
   links:
