@@ -20,7 +20,7 @@ title                    : "Minchae's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jung MinChae"
-description              : "Minchae's first blog."
+description              : "I Love AI."
 url                      : "https://Jungminchae.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ author:
   name             : "Jung Min Chae"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   avatar           : "images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I want to be a **machine learning engineer**."
+  bio              : "**machine learning engineer**."
   location         : "Seoul"
   email            :
   links:
