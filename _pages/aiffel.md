@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: posts
 permalink: /aiffel/
 title: "AIFFEL을 기록 해보자"
 author_profile: true
