@@ -51,3 +51,6 @@ with Team
 [탐험 코드]('https://github.com/Jungminchae/rock_paper_scissor_classification)
 
 앞으로가 기대가 많이 되는 AIFFEL 이다.
+
+{% if page.comments %} 
+ {% endif %}
