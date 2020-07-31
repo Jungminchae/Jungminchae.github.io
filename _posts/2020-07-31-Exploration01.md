@@ -2,6 +2,7 @@
 title: '탐험 01 가위바위보 인식하기'
 date: 2020-07-31
 tags: [AIFFEL, Exploration]
+comments: true
 ---
 
 # **AIFFEL에서의 첫 번째 탐험**
@@ -42,3 +43,11 @@ train, test 나눠서 결과 찍어보니 ***Accuracy*** 0.3 정도
 
 하지만 우리 팀은 5명이고 10개가 넘는 팀, 공유 문화가 발달된 **AIFFEL** 여차 저차해서  Train 1만장 Test 2000장을 모았다. 위의 모델같이 간단한 모델로도 70%가 넘는 정확도가 나왔다
 
+간단한 프로젝트 였지만 팀원들과 상의하고 공유하면서 나도 몰랐던 내 빈 곳을 채워갈 수 있었다.
+
+AIFFEL이 지향하는 Leaning by doing의 맛을 깨달아 가는 중
+with Team
+
+[탐험 코드]('https://github.com/Jungminchae/rock_paper_scissor_classification)
+
+앞으로가 기대가 많이 되는 AIFFEL 이다.
