@@ -48,9 +48,9 @@ train, test 나눠서 결과 찍어보니 ***Accuracy*** 0.3 정도
 AIFFEL이 지향하는 Leaning by doing의 맛을 깨달아 가는 중
 with Team
 
-[탐험 코드]('https://github.com/Jungminchae/rock_paper_scissor_classification)
+[탐험 코드](https://github.com/Jungminchae/rock_paper_scissor_classification)
 
 앞으로가 기대가 많이 되는 AIFFEL 이다.
 
 {% if page.comments %} 
- {% endif %}
+{% endif %}
