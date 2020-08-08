@@ -1,3 +1,10 @@
+---
+title: 'Class 공부 #01'
+date: 2020-08-07
+tags: [AIFFEL, Fundamental]
+comments: true
+---
+
 # Python Class 공 부 해 보 기 
 
 팀원들과 Class에 대해 함께 공부하면서 Python class 정리를 요청 받아서 한 번 정리해보려고 합니다.
