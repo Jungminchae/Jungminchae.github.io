@@ -59,4 +59,4 @@ class SmartPhone:
 ```
 App을 다운로드하는 기능을 추가해 보았습니다. 그런데 처음에 만든 SmartPhone 클래스 속성에는 internet 이라는 속성이 없고, 인터넷 연결이 없을 때 연결해주는 connect_internet이라는 기능도 없습니다.  
 다음 포스트에서는 이것을 해결할 수 있는 
-<font size=15, color='skyblue'> 클래스 상속 </font> 의 개념을 한 번 공부해 보겠습니다. 
+<font color='skyblue' size=15 > 클래스 상속 </font> 의 개념을 한 번 공부해 보겠습니다. 
