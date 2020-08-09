@@ -5,7 +5,7 @@ tags: [AIFFEL, Fundamental]
 comments: true
 ---
 
-# Python Class 공 부 해 보 기 
+# Python Class 공 부 해 보 기 - 1
 
 팀원들과 Class에 대해 함께 공부하면서 Python class 정리를 요청 받아서 한 번 정리해보려고 합니다.
 
@@ -60,7 +60,7 @@ class SmartPhone:
 여기에 나타타는 <font size=14> self</font>라는 인자는 class 자기 자신의 이름표라고 생각하면 편하더라구요.  
 'self가 있으면 'SmartPhone이 아니면 쓸 수 없다. 접근할 수 없다.' 라고 생각하면 이해가 좀 쉽습니다.
 
-이야기를 계속하면 #1 이나 #2 둘 다 쓸 수 있습니다. 아래의 방법으로 접근하면 속성값을 처음에 정해주어야 합니다.  
+이야기를 계속하면 #1 이나 #2 둘 다 쓸 수 있습니다. #2의 방법으로 접근하면 속성값을 처음에 정해주어야 합니다.  
 이렇게요
 ```python
 Iphone = SmartPhone(company='Apple', model='Iphone8',color='black', waterproof=True)
